@@ -1,0 +1,378 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 755px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 93px 230px 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 680px;
+  margin: 33px auto 0;
+}
+
+.u-section-1 .u-video-1 {
+  height: 362px;
+  width: 800px;
+  margin: 33px auto 60px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 530px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 130px;
+    margin-left: 130px;
+    width: 680px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 406px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 305px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 192px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 817px;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 220px auto 0 249px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 5px -160px 0 205px;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 34px 28px 0 auto;
+}
+
+.u-section-2 .u-btn-3 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 23px auto 0 249px;
+}
+
+.u-section-2 .u-btn-4 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 18px 28px 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  text-align: start;
+  margin: -60px -182px 0 205px;
+}
+
+.u-section-2 .u-text-3 {
+  text-align: start;
+  margin: 62px 0 0 45px;
+}
+
+.u-section-2 .u-btn-5 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 0 auto 0 249px;
+}
+
+.u-section-2 .u-btn-6 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: -5px 28px 0 auto;
+}
+
+.u-section-2 .u-text-4 {
+  text-align: start;
+  margin: -39px 24px 0 0;
+}
+
+.u-section-2 .u-text-5 {
+  text-align: start;
+  margin: 41px 0 0 45px;
+}
+
+.u-section-2 .u-text-6 {
+  text-align: start;
+  margin: 40px 24px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-btn-1 {
+    margin-left: 49px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 46px;
+    margin-right: 0;
+    margin-left: 45px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: 0;
+    margin-left: 45px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-left: 45px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 3px;
+    margin-right: 24px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-top: 65px;
+    margin-right: 24px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-top: -67px;
+    margin-right: 24px;
+    margin-left: 49px;
+  }
+
+  .u-section-2 .u-btn-6 {
+    margin-top: 44px;
+    margin-right: 24px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    width: auto;
+    margin-top: 3px;
+  }
+
+  .u-section-2 .u-text-5 {
+    width: auto;
+  }
+
+  .u-section-2 .u-text-6 {
+    width: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+    margin-left: 45px;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-right: 0;
+    margin-left: 45px;
+  }
+
+  .u-section-2 .u-btn-6 {
+    margin-right: 0;
+    margin-left: 45px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 0;
+    margin-left: 45px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-3 {
+    margin-right: 24px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-right: 24px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-6 {
+    margin-right: 24px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 24px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 498px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 60px;
+    margin-left: 34px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 0;
+    margin-left: 34px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: -8px;
+    margin-right: auto;
+    margin-left: 225px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-left: 34px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-right: auto;
+    margin-left: 225px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: auto;
+    margin-left: 170px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 41px;
+    margin-right: 0;
+    margin-left: 34px;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-right: 0;
+    margin-left: 34px;
+  }
+
+  .u-section-2 .u-btn-6 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 225px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: auto;
+    margin-left: 170px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-top: -209px;
+    margin-left: 34px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-top: -86px;
+    margin-right: 34px;
+    margin-bottom: 312px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 82px;
+}
+
+.u-section-3 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  margin: 23px auto 60px;
+  padding: 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-btn-1 {
+    margin-bottom: 35px;
+  }
+}
